@@ -1,0 +1,21 @@
+#: locale=en
+
+## Tour
+
+### Description
+tour.description = RentingSF
+
+### Title
+tour.name = 311 Corbett #13
+
+## Media
+
+### Title
+panorama_EA08552F_C633_1F56_41DC_B547C57BD7B0.label = Bathroom
+panorama_EA0E206E_C63D_15D6_41CF_AC691E179206.label = Balcony
+panorama_EA0F968D_C63C_FD5A_41CD_BCEE92A935AA.label = Kitchen
+panorama_EA0FB23B_C633_15BE_41C9_705B643B5F49.label = Living Room
+panorama_EA0FD8AA_C633_355E_41E2_8CEE870C2147.label = Bedroom
+panorama_EA0FFBEE_C63C_EAD6_41D3_DAC9A045D582.label = Dining Space
+panorama_EA0FFEF8_C633_2ABA_417B_38003F7B92D4.label = Hallway
+panorama_F4EB8BD7_C633_6AF6_41CF_842B816FA3C3.label = Entrance
